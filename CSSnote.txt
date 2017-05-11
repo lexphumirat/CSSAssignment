@@ -1,0 +1,14 @@
+id = uses # in css
+class = uses . in css
+
+command /  to comment things out in css
+Inline elements: <a>, <img>, <span>, <input>, <label>, <select>, <textarea>
+Block elements: <body>, <div>, <form>, <h1>-<h6>, <p>, <table>, <ul>, <ol>, <li>
+
+Margin is outside block elements, while padding is within them.
+This means that we use margin to separate a block from things around it, and padding to move a block's content away from its edges.
+
+(The order flows clockwise, top -> right -> bottom -> left.)
+
+Html used to link css stylesheets
+<link rel="stylesheet" type="text/css" href="style.css">
